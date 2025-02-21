@@ -17,3 +17,6 @@ model_full = XGBClassifier(
 - 하이퍼파라메터 튜닝 진행시 colsample_bytree': 0.8, 'learning_rate': 0.1, 'max_depth': 4, 'n_estimators': 200, 'subsample': 0.8가 최적의 파라매터라고 나옴. ROC값도 미미하게 올랐지만, 초기 소정님이 설정하셨던 파라매터가 더 결과가 좋음.
 
 - 중요도 하위 20개 변수 제거시 ROC값이 증가. 다콘 결과 확인은 하지 못하였음.
+
+---
+## 각자 좀 어떤게 결과에 더 좋았는지 간단하게 써주시면 좋을 것 같습니다!
