@@ -1,7 +1,7 @@
 # aimers
 
 
-###수민
+### 수민
 - 데이터 불균형(임신 성공 여부/성공:실패=1:3)로 XBboost 모델에 성공률에 더 weight를 주는 변수 "scale_pos_weight"를 추가.
 
 '''
